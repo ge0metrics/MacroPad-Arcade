@@ -1,5 +1,10 @@
 # MacroPad Arcade
-- Basic games for the macropad, including a menu to select the game
+- Basic games for the Adafruit MacroPad, including a menu to select the game
+
+# Installation instructions
+- Copy the three files in this repo to the root directory of your Adafruit MacroPad
+- Copy the "fonts" folder in this repo to the root directory of your Adafruit MacroPad
+- Download "adafruit_bitmap_font" and "adafruit_display_text" from the latest CircuitPython library bundle
 
 # Features
 - Navigate the initial menu using the rotary encoder
