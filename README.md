@@ -18,4 +18,5 @@
 - Wack - A - Mole implementation
 
 # Issues
+- First key pressed for the Simon Says game does not register
 - Simon Says menu does not work after "You Lose..." sequence
