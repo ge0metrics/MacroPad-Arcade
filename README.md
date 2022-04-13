@@ -18,6 +18,4 @@
 - Wack - A - Mole implementation
 
 # Issues
-- Simon Says sequence sometimes inconsistent seemingly when the same key is picked for the sequence twice in a row
-- Simon Says shows "You Lose..." sequence even when the correct keys were pressed
 - Simon Says menu does not work after "You Lose..." sequence
